@@ -15,13 +15,12 @@
 <table>
   <tr>
     <td align="center">
-      <img width="494" height="331" src="assets/preview-1.png" alt="Main interface" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fdd1f2b-f508-46d1-a94f-f0500d7c316b" />
-
-   <br/>
+      <img width="494" height="278" src="https://github.com/user-attachments/assets/6fdd1f2b-f508-46d1-a94f-f0500d7c316b" alt="Main interface" />
+      <br/>
       <sub>main interface</sub>
     </td>
     <td align="center">
-      <img width="494" height="331" src="assets/preview-2.png" alt= /><img width="1272" height="836" alt="image" src="https://github.com/user-attachments/assets/4b0dd7f6-7be3-483c-9d18-a679fbb95f35" />
+      <img width="494" height="325" src="https://github.com/user-attachments/assets/4b0dd7f6-7be3-483c-9d18-a679fbb95f35" alt="Config panel" />
       <br/>
       <sub>config panel</sub>
     </td>
