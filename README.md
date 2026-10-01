@@ -7,7 +7,7 @@
 <br/>
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-blue?style=for-the-badge&logo=windows)](https://github.com/yourname/delta-force-toolkit)
-[![Version](https://img.shields.io/badge/Version-3.7-orange?style=for-the-badge)](https://github.com/yourname/delta-force-toolkit/releases)
+[![Version](https://img.shields.io/badge/Version-3.8-orange?style=for-the-badge)](https://github.com/yourname/delta-force-toolkit/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
