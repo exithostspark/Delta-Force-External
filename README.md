@@ -1,6 +1,6 @@
 <div align="center">
 
-# Delta Force
+# Delta Force.
 
 > **A feature-rich utility for expanding player control over the Delta Force sandbox. Full customization of aiming, visual overlay, radar, and performance options.**
 
